@@ -1,0 +1,6 @@
+Install these modules
+
+
+pip install Flask
+pip install Werkzeug
+pip install pywin32
